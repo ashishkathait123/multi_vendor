@@ -294,7 +294,7 @@ export const productData = [
     rating: 5,
     total_sell: 80,
     stock: 10,
-    category: "Mobile & Tablets",
+    category1: "Mobile & Tablets",
   },
   {
     id: 3,
@@ -448,7 +448,7 @@ export const productData = [
     rating: 500,
     total_sell: 200,
     stock: 6,
-    category: "Computers & Laptop",
+    category1: "Computers & Laptop",
   },
 
   {
@@ -480,7 +480,7 @@ export const productData = [
     rating: 80,
     total_sell: 90,
     stock: 2,
-    category: "Computers & Laptop",
+    category1: "Computers & Laptop",
   },
 
   {
@@ -512,7 +512,7 @@ export const productData = [
     rating: 40,
     total_sell: 40,
     stock: 4,
-    category: "cosmetics and body care",
+    category1: "cosmetics and body care",
   },
 
   {
@@ -672,7 +672,7 @@ export const productData = [
     rating: 89,
     total_sell: 213,
     stock: 4,
-    category: "Mobile and Tablets",
+    category1: "Mobile and Tablets",
   },
 
   {
@@ -704,7 +704,7 @@ export const productData = [
     rating: 89,
     total_sell: 213,
     stock: 3,
-    category: "Music and Gaming",
+    category1: "Music and Gaming",
   },
 
   {
@@ -736,7 +736,7 @@ export const productData = [
     rating: 32,
     total_sell: 12,
     stock: 6,
-    category: "Music and Gaming",
+    category1: "Music and Gaming",
   },
 
   {
@@ -768,7 +768,7 @@ export const productData = [
     rating: 79,
     total_sell: 23,
     stock: 7,
-    category: "Music and Gaming",
+    category1: "Music and Gaming",
   },
 
   {
@@ -800,7 +800,7 @@ export const productData = [
     rating: 200,
     total_sell: 14,
     stock: 3,
-    category: "Accesories",
+    category1: "Accesories",
   },
 
   {
@@ -832,7 +832,7 @@ export const productData = [
     rating: 90,
     total_sell: 121,
     stock: 5,
-    category: "Mobile and Tablets",
+    category1: "Mobile and Tablets",
   },
 
   {
@@ -864,7 +864,7 @@ export const productData = [
     rating: 81,
     total_sell: 321,
     stock: 3,
-    category: "Mobile and Tablets",
+    category1: "Mobile and Tablets",
   },
 
   {
@@ -896,7 +896,7 @@ export const productData = [
     rating: 30,
     total_sell: 54,
     stock: 4,
-    category: "Accesories",
+    category1: "Accesories",
   },
 
   {
@@ -928,7 +928,7 @@ export const productData = [
     rating: 4,
     total_sell: 75,
     stock: 5,
-    category: "Computers & Laptop",
+    category1: "Computers & Laptop",
   },
   {
     id: 23,
@@ -990,7 +990,7 @@ export const productData = [
     rating: 5,
     total_sell: 49,
     stock: 6,
-    category: "Shoes",
+    category1: "Shoes",
   },
 
   {
