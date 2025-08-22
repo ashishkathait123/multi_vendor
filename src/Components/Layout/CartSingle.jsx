@@ -69,7 +69,7 @@ const CartSingle = ({ data, quantityChangeHanlder }) => {
           </h4>
 
           <h4 className="font-[600] font-Roboto text-[16px] pt-1 text-[#d02222]">
-            US${totalPrice}
+          INR ₹{totalPrice}
           </h4>
         </div>
 

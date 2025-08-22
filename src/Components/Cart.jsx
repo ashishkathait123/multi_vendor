@@ -73,7 +73,7 @@ const Cart = ({ setOpenCart, openCart }) => {
             <div className="px-3 mb-3 mt-7">
               <Link to={isAuthenticated ? "/checkout" : "/sign-up"}>
                 <button className="rounded-[5px] flex items-center justify-center w-[100%] bg-[#e44343] h-[45px] text-white">
-                  Checkout Now (USD${totalPrize})
+                  Checkout Now (INR₹{totalPrize})
                 </button>
               </Link>
             </div>

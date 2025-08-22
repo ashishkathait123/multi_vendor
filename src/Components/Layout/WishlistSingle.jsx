@@ -54,7 +54,7 @@ const WishlistSingle = ({ data, setOpenWishlist }) => {
           <h1>{data.name}</h1>
 
           <h4 className="font-[600] font-Roboto text-[16px] pt-1 text-[#d02222]">
-            US${totalPrice}
+           INR ₹{totalPrice}
           </h4>
         </div>
 

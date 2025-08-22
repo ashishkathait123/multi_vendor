@@ -57,7 +57,7 @@ const Footer = () => {
           </p>
 
           <div className="flex items-center mt-[15px]">
-            <a href="https://web.facebook.com/rahi680/" target="_blank">
+            <a href="https://www.facebook.com/grandeurnetindia/" target="_blank">
               <AiFillFacebook size={25} className=" cursor-pointer" />
             </a>
             <a href="https://twitter.com/Asfak00" target="_blank">
@@ -69,7 +69,7 @@ const Footer = () => {
             <a href="https://github.com/asfak00" target="_blank">
               <AiFillGithub size={25} className="ml-[15px] cursor-pointer" />
             </a>
-            <a href="https://www.instagram.com/asfakahmed22/" target="_blank">
+            <a href="https://www.instagram.com/grandeur_net/" target="_blank">
               <AiFillInstagram size={25} className="ml-[15px] cursor-pointer" />
             </a>
           </div>
@@ -121,7 +121,7 @@ const Footer = () => {
           <span className="text-[#342ac8] font-bold cursor-pointer">
             Rahi ahmed
           </span>{" "}
-          . all rights reserved.
+          . all rights reserved | Powred By GrandeurNet
         </span>
 
         <span>

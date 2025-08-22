@@ -81,7 +81,7 @@ const Order = () => {
       row.push({
         id: item._id,
         itemsQty: item.orderItems.length,
-        total: "US$ " + item.totalPrice,
+        total: "INR₹ " + item.totalPrice,
         status: item.orderStatus,
       });
     });
